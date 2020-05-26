@@ -1,3 +1,5 @@
+思路：[基于 Flutter1.12.13 混合开发 Android 自动打包 dart 脚本](http://jsshou.cn/blog/flutter/flutter_build_android.html)
+
 执行环境
 
 > flutter 版本：v1.12.13+hotfix.9
