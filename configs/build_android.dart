@@ -178,7 +178,7 @@ class DeployObject {
 
 ///上传到maven
 Future<bool> uploadMaven(String version, String buildMode) async {
-  if (mavenUrl == 'xxx') {
+  if (mavenUrl == '') {
     print('你什么都没改，别传maven了');
     return false;
   }
