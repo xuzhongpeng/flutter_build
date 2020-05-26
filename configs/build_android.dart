@@ -4,9 +4,9 @@ import 'package:xml/xml.dart' as xml;
 
 String projectDir = Directory('').absolute.path;
 
-String mavenUrl = 'http://47.111.7.46:8080/repository/maven-releases';
-String username = 'android';
-String password = 'gunmaduoke';
+String mavenUrl = '';
+String username = '';
+String password = '';
 String debugUrl = ''; //推送企业微信debug机器人
 String releaseUrl = ''; //推送企业微信release机器人
 void main() async {
